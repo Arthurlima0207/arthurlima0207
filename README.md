@@ -6,9 +6,7 @@
 -Estudante de Ciência da Computação
 
 -Interessado em linguagens de programação e tecnologias de 
-desenvolvimento Back-end e Data Science
-
--Entusiasta da área de Inteligência Artificial 
+desenvolvimento Back-end e Data Science 
 
 
 ---
